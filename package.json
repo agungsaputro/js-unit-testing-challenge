@@ -1,0 +1,17 @@
+{
+  "name": "js-unit-testing-challenge",
+  "version": "1.0.0",
+  "description": "js unit testing challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "agungdwisaputro",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
